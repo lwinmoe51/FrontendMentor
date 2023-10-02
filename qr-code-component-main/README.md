@@ -33,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub](https://github.com/lwinmoe51/FrontendMentor/tree/main/qr-code-component-main)
-- Live Site URL: [Netlify Live View](lwin-qr-code-component-frontendmentor.netlify.app)
+- Live Site URL: [Netlify Live View](https://lwin-qr-code-component-frontendmentor.netlify.app/)
 
 ## My process
 
